@@ -13,4 +13,6 @@
 
 Experience the revolution of generative AI engineering - where innovation meets imagination
 
-Get started: [https://www.genai.engineering](https://www.genai.engineering/)
+Get started: [https://www.aiflow.com.au](https://www.aiflow.com.au/)
+
+Demo apps: https://whalemail.genai.engineering/
